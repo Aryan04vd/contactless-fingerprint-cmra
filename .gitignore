@@ -1,0 +1,24 @@
+# Python environment
+venv/
+.venv/
+
+# Dataset, cached arrays and pair lists (research-licensed, not redistributed)
+src/data/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Logs and Office temp files
+*.log
+~$*
+
+# Copyrighted reference material (see README)
+VerifNet_-_A_Novel_*.pdf
+results/literature/
+
+# OS files
+.DS_Store
+Thumbs.db

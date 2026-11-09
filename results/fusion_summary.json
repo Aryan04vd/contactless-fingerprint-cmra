@@ -1,0 +1,18 @@
+{
+  "best_method": "Quality-aware LR (min+diff)",
+  "primary_selected_on": "validation",
+  "best": {
+    "method": "Quality-aware LR (min+diff)",
+    "val_eer": 0.16038359788359788,
+    "test_eer": 0.18158090976882924,
+    "test_tar1": 0.32941834451901564,
+    "test_tar01": 0.12192393736017897,
+    "ci_lo": 0.16211091620907056,
+    "ci_hi": 0.20078395527637102,
+    "C": 0.01,
+    "cv_eer": 0.18386243386243384,
+    "selected_on_val": true
+  },
+  "fixed_w_ise_mm": 0.8500000000000001,
+  "fixed_w_baseline_mm": 0.5
+}

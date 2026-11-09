@@ -1,0 +1,25 @@
+{
+  "strata": [
+    {
+      "stratum": "cross-session",
+      "label": 0,
+      "n": 918
+    },
+    {
+      "stratum": "same-session",
+      "label": 0,
+      "n": 4446
+    },
+    {
+      "stratum": "same-session",
+      "label": 1,
+      "n": 5364
+    }
+  ],
+  "best_method": "Quality-aware LR (min+diff)",
+  "best_eer": 0.18158090976882924,
+  "ci": [
+    0.16211091620907056,
+    0.20078395527637102
+  ]
+}
